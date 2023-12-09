@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
-      "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "veux",
+      "repo": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375",
+      "branch": "tiramisu",
       "device": "veux",
       "defconfig": "gki_defconfig"  
     },
@@ -47,8 +47,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Google）",
-      "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "veux",
+      "repo": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375",
+      "branch": "tiramisu",
       "device": "veux",
       "defconfig": "gki_defconfig" 
     },
@@ -93,8 +93,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Utsav）",
-      "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "veux",
+      "repo": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375",
+      "branch": "tiramisu",
       "device": "veux",
       "defconfig": "gki_defconfig" 
     },
