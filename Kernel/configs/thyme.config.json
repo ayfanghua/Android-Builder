@@ -5,7 +5,7 @@
       "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
       "branch": "veux",
       "device": "veux",
-      "defconfig": "VEUX-qgki_defconfig"  
+      "defconfig": "qgki_defconfig"  
     },
     "enableCcache": true,
     "toolchains": [
@@ -50,7 +50,7 @@
       "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
       "branch": "veux",
       "device": "veux",
-      "defconfig": "VEUX-qgki_defconfig" 
+      "defconfig": "qgki_defconfig" 
     },
     "toolchains": [
       {
@@ -96,7 +96,7 @@
       "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
       "branch": "veux",
       "device": "veux",
-      "defconfig": "VEUX-qgki_defconfig" 
+      "defconfig": "qgki_defconfig" 
     },
     "enableCcache": true,
     "toolchains": [
