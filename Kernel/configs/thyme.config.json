@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
       "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "tiramisu",
+      "branch": "veux",
       "device": "veux",
-      "defconfig": "gki_defconfig"  
+      "defconfig" :"gki_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
@@ -48,9 +48,9 @@
     "kernelSource": {
       "name": "Xiaomi10S（Google）",
       "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "tiramisu",
+      "branch": "veux",
       "device": "veux",
-      "defconfig": "gki_defconfig" 
+      "defconfig" :"gki_defconfig"
     },
     "toolchains": [
       {
@@ -94,9 +94,9 @@
     "kernelSource": {
       "name": "Xiaomi10S（Utsav）",
       "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "tiramisu",
+      "branch": "veux",
       "device": "veux",
-      "defconfig": "gki_defconfig" 
+      "defconfig" :"gki_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
