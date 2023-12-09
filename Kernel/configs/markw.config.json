@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi4",
-      "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "veux",
+      "repo": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375",
+      "branch": "tiramisu",
       "device": "veux",
       "defconfig": "gki_defconfig"
     },
