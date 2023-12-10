@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "Xiaomi4",
-      "repo": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm6375",
-      "branch": "14",
-      "device": "veux",
+      "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
+      "branch": "main",
+      "device": "gauguin",
       "defconfig" : "gki_defconfig"
     },
     "toolchains": [
