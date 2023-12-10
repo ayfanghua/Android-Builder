@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Mi6X",
-      "repo": "https://github.com/RedEnemy30/kernel_xiaomi_veux",
-      "branch": "veux",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_sm6375",
+      "branch": "thirteen",
       "device": "veux",
-      "defconfig" :"gki_defconfig"
+      "defconfig" : "gki_defconfig"
     },
     "toolchains": [
       {
