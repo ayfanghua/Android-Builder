@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "redmi note11e pro",
+      "name": "note11e",
       "repo": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375",
       "branch": "tiramisu",
       "device": "veux",
