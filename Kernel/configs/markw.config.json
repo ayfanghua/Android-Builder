@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "note11e",
-      "repo": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375",
-      "branch": "tiramisu",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "branch": "veux-r-oss",
       "device": "veux",
-      "defconfig" : "gki_defconfig"
+      "defconfig" : "vendor/veux-qgki-debug_defconfig"
     },
     "toolchains": [
       {
