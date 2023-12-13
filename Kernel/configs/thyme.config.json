@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
       "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "main",
+      "branch": "feature/KSU",
       "device": "gauguin",
       "defconfig" : "gki_defconfig"
     },
@@ -48,7 +48,7 @@
     "kernelSource": {
       "name": "Xiaomi10S（Google）",
       "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "main",
+      "branch": "feature/KSU",
       "device": "gauguin",
       "defconfig" : "gki_defconfig"
     },
@@ -94,7 +94,7 @@
     "kernelSource": {
       "name": "Xiaomi10S（Utsav）",
       "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "main",
+      "branch": "feature/KSU",
       "device": "gauguin",
       "defconfig" : "gki_defconfig"
     },
