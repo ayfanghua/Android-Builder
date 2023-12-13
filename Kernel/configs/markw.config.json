@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "note11e",
-      "repo": "https://github.com/SharmagRit/android_kernel_xiaomi_veux-headers",
-      "branch": "thirteen",
-      "device": "veux",
+      "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
+      "branch": "main",
+      "device": "gauguin",
       "defconfig" : "gki_defconfig"
     },
     "toolchains": [
