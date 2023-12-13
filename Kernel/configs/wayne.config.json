@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "Mi6X",
       "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "feature/KSU",
+      "branch": "main",
       "device": "gauguin",
-      "defconfig" : "vendor/gauguin_user_defconfig"
+      "defconfig" : "gki_defconfig"
     },
     "toolchains": [
       {
