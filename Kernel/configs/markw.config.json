@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "note11e",
-      "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "neko",
+      "repo": "https://github.com/Dhollmen/Kernel_Xiaomi_Gauguin",
+      "branch": "master",
       "device": "gauguin",
-      "defconfig" : "vendor/gauguin_defconfig"
+      "defconfig" : "vendor/gauguin_user_defconfig"
     },
     "toolchains": [
       {
