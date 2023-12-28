@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
-      "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "neko",
+      "repo": "https://github.com/Dhollmen/Kernel_Xiaomi_Gauguin",
+      "branch": "master",
       "device": "gauguin",
-      "defconfig" : "vendor/gauguin_defconfig"
+      "defconfig" : "vendor/gauguin_user_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
@@ -47,10 +47,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Google）",
-      "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "neko",
+      "repo": "https://github.com/Dhollmen/Kernel_Xiaomi_Gauguin",
+      "branch": "master",
       "device": "gauguin",
-      "defconfig" : "vendor/gauguin_defconfig"
+      "defconfig" : "vendor/gauguin_user_defconfig"
     },
     "toolchains": [
       {
@@ -93,10 +93,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Utsav）",
-      "repo": "https://github.com/Molyuu/neko_kernel_xiaomi_gauguin",
-      "branch": "neko",
+      "repo": "https://github.com/Dhollmen/Kernel_Xiaomi_Gauguin",
+      "branch": "master",
       "device": "gauguin",
-      "defconfig" : "vendor/gauguin_defconfig"
+      "defconfig" : "vendor/gauguin_user_defconfig"
     },
     "enableCcache": true,
     "toolchains": [
